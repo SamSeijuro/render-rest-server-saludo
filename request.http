@@ -1,1 +1,5 @@
-GET http://localhost:8080/saludo
+GET https://idat-saluda-jwj4.onrender.com/saludo
+
+###
+
+GET https://idat-saluda-jwj4.onrender.com/saludo?name=JohanChavez
